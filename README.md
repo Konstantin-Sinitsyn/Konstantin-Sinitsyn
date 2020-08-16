@@ -1,7 +1,7 @@
 # "Hello, world!" - сайт, который я свертал на курсе от GeekBrains:(нет адаптива для мобильных устройств)
 https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/Interior/
 
-# HouseVOP - первая самостоятельная верстка по макету:(нет адаптива для мобильных устройств)
+# HouseVOP - первая самостоятельная верстка по макету:   (нет адаптива для мобильных устройств)
 https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/Housevop/
 
 # Trafalgar - первые попытки адаптивности: 
