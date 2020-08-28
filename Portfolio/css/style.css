@@ -40,6 +40,18 @@ body {
   align-items: center;
 }
 
+.logo {
+  align-items: center;
+  text-align: center;
+}
+
+.logo-text {
+  font-size: 25px;
+  text-transform: uppercase;
+  color: #ffbb01;
+  line-height: 28px;
+}
+
 .social-link {
   margin-left: 20px;
 }
@@ -93,6 +105,14 @@ body {
   font-size: 12px;
   line-height: 14px;
   margin-top: 38px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+
+button:active,
+button:focus {
+  outline: none;
 }
 
 .hero-avatar {
@@ -152,7 +172,7 @@ body {
 }
 
 .project-image {
-  max-width: 39%;
+  max-width: 38%;
 }
 
 .project-text {
@@ -202,6 +222,17 @@ body {
   margin-right: 16px;
 }
 
+.project-link {
+  font-size: 14px;
+  background-color: #ffbb01;
+  border-radius: 20px;
+  padding: 10px 25px;
+  color: #fff;
+  text-decoration: none;
+  margin-top: 30px;
+  margin-left: 45px;
+}
+
 .projects-pagination {
   display: flex;
   justify-content: center;
@@ -210,8 +241,8 @@ body {
 }
 
 .projects-bullet {
-  width: 10px;
-  height: 10px;
+  width: 15px;
+  height: 15px;
   border: 2px solid #ffbb01;
   border-radius: 50%;
   display: inline-block;
@@ -219,7 +250,7 @@ body {
   margin-right: 5px;
 }
 
-.projects-bullet-active {
+.swiper-pagination-bullet-active {
   background-color: #ffbb01;
 }
 
@@ -260,12 +291,19 @@ body {
   background-repeat: no-repeat;
   background-position: center left 20px;
   margin-bottom: 17px;
+  outline: none;
 }
 .input-phone {
   background-image: url(../img/phone-icon.svg);
   background-repeat: no-repeat;
   background-position: center left 20px;
-  margin-bottom: -10px;
+  margin-bottom: 10px;
+  outline: none;
+}
+
+.input-way {
+  outline: none;
+  font-size: 13px;
 }
 
 .form-button {
@@ -369,7 +407,8 @@ body {
 }
 @media (max-width: 564px) {
   .hero {
-    padding-top: 75px;
+    padding-top: 0;
+    padding-bottom: 0px;
   }
   .hero-subtitle {
     font-size: 16px;
@@ -424,6 +463,10 @@ body {
     font-style: 18px;
     line-height: 150%;
   }
+
+  .project-link{
+    margin-top: 0;
+  }
   .project-time,
   .project-cost,
   .project-feedback {
@@ -435,7 +478,7 @@ body {
   }
 
   .projects-pagination {
-    margin-top: -70px;
+    margin-top: -40px;
   }
   .contacts-form {
     padding: 40px 19px;
@@ -461,5 +504,8 @@ body {
     line-height: 16px;
     display: block;
     margin-bottom: 13px;
+  }
+  .contacts-text{
+    margin-top: 50px;
   }
 }
