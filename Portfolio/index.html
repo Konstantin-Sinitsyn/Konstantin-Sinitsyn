@@ -120,7 +120,7 @@
                                         <div class="project-description">
                                             <h4 class="project-subtitle">Пояснительное письмо</h4>
                                             <p class="project-paragraph">Сайт был разработан по макету Артёма
-                                                Исламова.Сайт адаптивный, можно открывать с планшета или телефона</p>
+                                                Исламова.Сайт адаптивный, можно открывать с планшета или телефона.</p>
                                         </div>
                                     </div>
                                     <a class="project-link" target="_blank"
@@ -212,12 +212,12 @@
         <div class="container">
             <h2 class="section-title">Свяжитель со мной</h2>
             <div class="contacts-block" id="form">
-                <form action="#" class="contacts-form">
+                <form action="mail.php" method="POST" class="contacts-form">
                     <h4 class="form-title">Можете просто оставить заявку, я позвоню вам сегодня</h4>
-                    <input type="text" class="input input-name" placeholder="Ваше имя">
-                    <input type="text" class="input input-phone" placeholder="Ваш телефон">
-                    <input type="text" class="input input-way" placeholder="Звонок/Telegram/Viber/WhatsApp">
-                    <button class="button form-button">Бесплатная консультация</button>
+                    <input type="text" class="input input-name" name="user-name" placeholder="Ваше имя">
+                    <input type="text" class="input input-phone" name="user-phone" placeholder="Ваш телефон/Email">
+                    <input type="text" class="input input-way" name="user-way" placeholder="Звонок/Telegram/Viber/WhatsApp">
+                    <button type="submit" class="button form-button">Бесплатная консультация</button>
                 </form>
                 <div class="contacts-text">
                     <div class="contacts-data">
