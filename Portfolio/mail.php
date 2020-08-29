@@ -15,7 +15,7 @@ $mail->Host = 'smtp.mail.ru';  																							// Specify main and backup
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
 $mail->Username = 'kostya.sinitsyn.980@mail.ru'; // Ваш логин от почты с которой будут отправляться письма
 $mail->Password = 'AnIYtyP32ou*'; // Ваш пароль от почты с которой будут отправляться письма
-$mail->SMTPSecure = 'none';                            // Enable TLS encryption, `ssl` also accepted
+$mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 465; // TCP port to connect to / этот порт может отличаться у других провайдеров
 
 $mail->setFrom('kostya.sinitsyn.980@mail.ru'); // от кого будет уходить письмо?
