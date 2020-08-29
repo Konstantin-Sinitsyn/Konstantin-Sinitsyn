@@ -529,3 +529,14 @@ button:focus {
   }
 }
 
+@media (max-width: 380px) {
+  .projects-pagination {
+    margin-top: 20px;
+  }
+  .input-way { 
+   font-size: 14px;
+  padding-left: 20px;
+  }
+}
+
+
