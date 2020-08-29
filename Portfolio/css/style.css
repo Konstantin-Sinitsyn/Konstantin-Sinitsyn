@@ -509,3 +509,23 @@ button:focus {
     margin-top: 50px;
   }
 }
+@media (max-width: 450px) {
+  .hero-header{
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .social-links{
+    margin-top: 20px;
+  }
+  .hero-content{
+    margin-top: 50px;
+  }
+  .section {
+    padding: 25px;
+  }
+  .section-title{
+    line-height: 35px;
+  }
+}
+
