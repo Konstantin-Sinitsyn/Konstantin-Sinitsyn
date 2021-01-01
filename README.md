@@ -23,9 +23,5 @@ https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/SpaceX/
 # Сайт на Bootstrp за час. Решил заполнить реальным текстом и картинками. Не люблю lorem ipsum🐟 
 https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/coffee%20is%20my%20friend/#
 
-# На данный момент работаю над интернет-магазином органических продуктов. Макет от Анны Блок(https://www.instagram.com/annblok/)
-
-https://github.com/Konstantin-Sinitsyn/OrganicWeb
-
 
 
