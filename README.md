@@ -20,8 +20,6 @@ https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/Trafalgar/
 # SpaceX - это просто космос. Во всех смыслах этого слова🚀
 https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/SpaceX/
 
-# Сайт на Bootstrp за час. Решил заполнить реальным текстом и картинками. Не люблю lorem ipsum🐟 
-https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/coffee%20is%20my%20friend/#
 
 
 
