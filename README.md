@@ -19,6 +19,12 @@
 
 Перейти к сайту➡https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/mir%20sporta/
 
+# Delivery Food🍕
+Простенький сайт, сделанный по макету Артёма Исламова(GLO Academy) для курсового проекта товарищу.
+
+Перейти к сайту➡https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/Delivery%20Food/
+
+# Остальные учебные сайты, на которых я оттачивал и изучал свои навыки. Для удобства приведу их списком ниже с небольшим описанием:
 
 # Beauty - верстка по готовому макету из Figma. Grid and Flexbox💙
 https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/beauty/
