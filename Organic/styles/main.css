@@ -566,17 +566,17 @@ ul {
 }
 
 .box-footer-social__vk {
-  background-image: url(img/vk.svg);
+  background-image: url(../img/vk.svg);
   background-size: 30px 23px;
 }
 
 .box-footer-social__inst {
-  background-image: url(img/instagram.svg);
+  background-image: url(../img/instagram.svg);
   background-size: 24px 16px;
 }
 
 .box-footer-social__fb {
-  background-image: url(img/facebook.svg);
+  background-image: url(../img/facebook.svg);
   background-size: 24px 16px;
 }
 
