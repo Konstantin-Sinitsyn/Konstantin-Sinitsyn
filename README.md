@@ -27,13 +27,13 @@
 # Остальные учебные сайты, на которых я оттачивал и изучал свои навыки. Для удобства приведу их списком ниже с небольшим описанием:
 
 * Beauty - попробовал на практике grid;
-https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/beauty/
+➡https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/beauty/
 
 * Trafalgar - первые попытки адаптивности;
-https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/Trafalgar/ 
+➡https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/Trafalgar/ 
 
 * SpaceX🚀 - крутой эффект с ракетой;
-https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/SpaceX/
+➡https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/SpaceX/
 
 
 
