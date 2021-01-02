@@ -1947,7 +1947,7 @@ button.close {
     background-color: transparent;
     border: 1px solid #27300f;
     border-radius: 100%;
-    background-image: url(img/tel.svg);
+    background-image: url(../img/tel.svg);
     background-size: 1rem 0.87rem;
     background-repeat: no-repeat;
     background-position: center center;
@@ -1960,7 +1960,7 @@ button.close {
     background-color: transparent;
     border: 1px solid #27300f;
     border-radius: 100%;
-    background-image: url(img/menu.svg);
+    background-image: url(../img/menu.svg);
     background-size: 1rem 0.87rem;
     background-repeat: no-repeat;
     background-position: center center;
@@ -1975,7 +1975,7 @@ button.close {
   .header-cart__button {
     background-color: transparent;
     border: 1px solid #27300f;
-    background-image: url(img/cart-black.svg);
+    background-image: url(../img/cart-black.svg);
   }
 
   .header-cart__count {
