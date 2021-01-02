@@ -26,16 +26,14 @@
 
 # Остальные учебные сайты, на которых я оттачивал и изучал свои навыки. Для удобства приведу их списком ниже с небольшим описанием:
 
-# Beauty - верстка по готовому макету из Figma. Grid and Flexbox💙
+* Beauty - попробовал на практике grid;
 https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/beauty/
-https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/Organic/
-# Trafalgar - первые попытки адаптивности😎
+
+* Trafalgar - первые попытки адаптивности;
 https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/Trafalgar/ 
 
-# SpaceX - это просто космос. Во всех смыслах этого слова🚀
+* SpaceX🚀 - крутой эффект с ракетой;
 https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/SpaceX/
 
 
 
-
-https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/Organic/
