@@ -11,7 +11,7 @@
  * В каталоге выполнена простейшая фильтрации товаров по выбранной категории.;
  * Добавлены небольшие анимации на главном экрана при открытии сайта.;
  * Выполнен адаптив, поэтому сайт можно открывать с любого устройства.;
-#➡https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/Organic/
+#Перейти➡https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/Organic/
 # Beauty👨‍💻 Organic
 # Beauty - верстка по готовому макету из Figma. Grid and Flexbox💙
 https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/beauty/
