@@ -6,7 +6,7 @@ body {
 }
 
 .head-bg {
-  background-image: url(/img/bg-head.png);
+  background-image: url(../img/bg-head.png);
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 41px;
@@ -43,7 +43,7 @@ body {
 .nav-top__menu-burger::before {
   display: block;
   content: "";
-  background-image: url(/img/icon/menu.svg);
+  background-image: url(../img/icon/menu.svg);
   width: 32px;
   height: 32px;
   background-repeat: no-repeat;
@@ -55,7 +55,7 @@ body {
 .nav-top__geo::before {
   content: "";
   display: block;
-  background-image: url(/img/icon/geo.svg);
+  background-image: url(../img/icon/geo.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -99,7 +99,7 @@ body {
 .nav-top__account::before {
   content: "";
   display: block;
-  background-image: url(/img/icon/account.svg);
+  background-image: url(../img/icon/account.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -123,7 +123,7 @@ body {
 .nav-top__shopping-cart::before {
   content: "";
   display: block;
-  background-image: url(/img/icon/shopping-cart.svg);
+  background-image: url(../img/icon/shopping-cart.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -163,7 +163,7 @@ body {
 .head-content-numbers::before {
   content: "";
   display: block;
-  background-image: url(/img/icon/phone.svg);
+  background-image: url(../img/icon/phone.svg);
   background-repeat: no-repeat;
   width: 24px;
   height: 24px;
@@ -296,7 +296,7 @@ body {
 .menu-list__item:first-child::before {
   content: "";
   display: block;
-  background-image: url(/img/icon/baseline-list.svg);
+  background-image: url(../img/icon/baseline-list.svg);
   background-repeat: no-repeat;
   width: 24px;
   height: 24px;
@@ -571,7 +571,7 @@ main {
   width: 40px;
   height: 40px;
   cursor: pointer;
-  background-image: url(/img/icon/arrow-left.svg);
+  background-image: url(../img/icon/arrow-left.svg);
   top: calc(50% - 20px);
   left: 0;
   z-index: 1;
@@ -588,7 +588,7 @@ main {
   width: 40px;
   height: 40px;
   cursor: pointer;
-  background-image: url(/img/icon/arrow-right.svg);
+  background-image: url(../img/icon/arrow-right.svg);
   top: calc(50% - 20px);
   right: 0;
 }
@@ -761,12 +761,12 @@ main {
   margin: -3px 48px;
 }
 .slider-item-brands__adidas {
-  background-image: url(/img/adidas.png);
+  background-image: url(../img/adidas.png);
   background-repeat: no-repeat;
   background-position: center;
 }
 .slider-item-brands__kettler {
-  background-image: url(/img/kettler.png);
+  background-image: url(../img/kettler.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -823,7 +823,7 @@ footer {
   display: block;
   width: 24px;
   height: 24px;
-  background-image: url(/img/baseline-email.png);
+  background-image: url(../img/baseline-email.png);
   position: absolute;
   top: 0px;
   left: -33px;
@@ -833,7 +833,7 @@ footer {
   display: block;
   width: 24px;
   height: 24px;
-  background-image: url(/img/baseline-phone.png);
+  background-image: url(../img/baseline-phone.png);
   position: absolute;
   left: -33px;
   top: 43px;
@@ -843,7 +843,7 @@ footer {
   display: block;
   width: 24px;
   height: 24px;
-  background-image: url(/img/baseline-phone.png);
+  background-image: url(../img/baseline-phone.png);
   position: absolute;
   left: -33px;
   top: 86px;
@@ -1034,7 +1034,7 @@ footer {
   .nav-top__account::before {
     content: "";
     display: block;
-    background-image: url(/img/icon/account.svg);
+    background-image: url(../img/icon/account.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -1054,7 +1054,7 @@ footer {
   .nav-top__shopping-cart::before {
     content: "";
     display: block;
-    background-image: url(/img/icon/shopping-cart.svg);
+    background-image: url(../img/icon/shopping-cart.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -1495,7 +1495,7 @@ footer {
   }
   .nav-top__geo::before {
     content: "";
-    background-image: url(/img/icon/logo-icon.svg);
+    background-image: url(../img/icon/logo-icon.svg);
   }
   .nav-top__geo::before {
     left: 60px;
@@ -1578,7 +1578,7 @@ footer {
   .menu-list__item-mobil-discount::before {
     content: "";
     display: block;
-    background-image: url(/img/icon/baseline-list.svg);
+    background-image: url(../img/icon/baseline-list.svg);
     background-repeat: no-repeat;
     width: 24px;
     height: 24px;
@@ -1589,7 +1589,7 @@ footer {
   .menu-list__item-mobil-delivery::before {
     content: "";
     display: block;
-    background-image: url(/img/icon/baseline-list.svg);
+    background-image: url(../img/icon/baseline-list.svg);
     background-repeat: no-repeat;
     width: 24px;
     height: 24px;
