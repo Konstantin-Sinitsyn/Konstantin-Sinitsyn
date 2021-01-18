@@ -1,6 +1,5 @@
 
 # Начинающий верстальщик💻
-# Связь 📲 https://t.me/s_konstantinn
 
 # Список моих работ:
 
@@ -29,6 +28,7 @@
 
 Перейти к сайту➡https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/calc/
 
+# Связь 📲 https://t.me/s_konstantinn
 
 
 
