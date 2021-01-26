@@ -20,7 +20,7 @@
 
 Перейти к сайту➡https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/moneyCalc/
 
-# "Кошелёк" - калькулятор расходов
+# Калькулятор
 Простейший калькулятор. Возможно не только полная очистка кнопкой "АС", но и посимвольное удаление кнопкой "С"
 
 Перейти к сайту➡https://konstantin-sinitsyn.github.io/Konstantin-Sintsyn.github.io/calc/
