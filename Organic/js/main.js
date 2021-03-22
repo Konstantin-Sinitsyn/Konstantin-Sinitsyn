@@ -1,144 +1,141 @@
-/******/ (function(modules) { // webpackBootstrap
-/******/ 	// The module cache
-/******/ 	var installedModules = {};
-/******/
-/******/ 	// The require function
-/******/ 	function __webpack_require__(moduleId) {
-/******/
-/******/ 		// Check if module is in cache
-/******/ 		if(installedModules[moduleId]) {
-/******/ 			return installedModules[moduleId].exports;
-/******/ 		}
-/******/ 		// Create a new module (and put it into the cache)
-/******/ 		var module = installedModules[moduleId] = {
-/******/ 			i: moduleId,
-/******/ 			l: false,
-/******/ 			exports: {}
-/******/ 		};
-/******/
-/******/ 		// Execute the module function
-/******/ 		modules[moduleId].call(module.exports, module, module.exports, __webpack_require__);
-/******/
-/******/ 		// Flag the module as loaded
-/******/ 		module.l = true;
-/******/
-/******/ 		// Return the exports of the module
-/******/ 		return module.exports;
-/******/ 	}
-/******/
-/******/
-/******/ 	// expose the modules object (__webpack_modules__)
-/******/ 	__webpack_require__.m = modules;
-/******/
-/******/ 	// expose the module cache
-/******/ 	__webpack_require__.c = installedModules;
-/******/
-/******/ 	// define getter function for harmony exports
-/******/ 	__webpack_require__.d = function(exports, name, getter) {
-/******/ 		if(!__webpack_require__.o(exports, name)) {
-/******/ 			Object.defineProperty(exports, name, { enumerable: true, get: getter });
-/******/ 		}
-/******/ 	};
-/******/
-/******/ 	// define __esModule on exports
-/******/ 	__webpack_require__.r = function(exports) {
-/******/ 		if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
-/******/ 			Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
-/******/ 		}
-/******/ 		Object.defineProperty(exports, '__esModule', { value: true });
-/******/ 	};
-/******/
-/******/ 	// create a fake namespace object
-/******/ 	// mode & 1: value is a module id, require it
-/******/ 	// mode & 2: merge all properties of value into the ns
-/******/ 	// mode & 4: return value when already ns object
-/******/ 	// mode & 8|1: behave like require
-/******/ 	__webpack_require__.t = function(value, mode) {
-/******/ 		if(mode & 1) value = __webpack_require__(value);
-/******/ 		if(mode & 8) return value;
-/******/ 		if((mode & 4) && typeof value === 'object' && value && value.__esModule) return value;
-/******/ 		var ns = Object.create(null);
-/******/ 		__webpack_require__.r(ns);
-/******/ 		Object.defineProperty(ns, 'default', { enumerable: true, value: value });
-/******/ 		if(mode & 2 && typeof value != 'string') for(var key in value) __webpack_require__.d(ns, key, function(key) { return value[key]; }.bind(null, key));
-/******/ 		return ns;
-/******/ 	};
-/******/
-/******/ 	// getDefaultExport function for compatibility with non-harmony modules
-/******/ 	__webpack_require__.n = function(module) {
-/******/ 		var getter = module && module.__esModule ?
-/******/ 			function getDefault() { return module['default']; } :
-/******/ 			function getModuleExports() { return module; };
-/******/ 		__webpack_require__.d(getter, 'a', getter);
-/******/ 		return getter;
-/******/ 	};
-/******/
-/******/ 	// Object.prototype.hasOwnProperty.call
-/******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
-/******/
-/******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/";
-/******/
-/******/
-/******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./src/js/index.js");
-/******/ })
-/************************************************************************/
-/******/ ({
+/* SLIER */
+$(".slider").slick({
+  dots: false,
+  infinite: false,
+  arrows: true,
+  speed: 300,
+  slidesToShow: 3,
+  slidesToScroll: 1,
+  responsive: [
+    {
+      breakpoint: 1201,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2,
+        arrows: false,
+        dots: true,
+      },
+    },
+    {
+      breakpoint: 993,
+      settings: {
+        slidesToShow: 1.4,
+        slidesToScroll: 1,
+        arrows: false,
+        dots: true,
+      },
+    },
+    {
+      breakpoint: 561,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: false,
+        dots: true,
+      },
+    },
+  ],
+});
 
-/***/ "./src/blocks/modules/footer/footer.js":
-/*!*********************************************!*\
-  !*** ./src/blocks/modules/footer/footer.js ***!
-  \*********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/* COUNTER */
 
+$(document).ready(function () {
+  $(".slider-count__minus, .catalog-count__minus").click(function () {
+    var $input = $(this).parent().find("input");
+    var count = parseInt($input.val()) - 1;
+    count = count < 1 ? 1 : count;
+    $input.val(count);
+    $input.change();
+    return false;
+  });
+  $(".slider-count__plus, .catalog-count__plus").click(function () {
+    var $input = $(this).parent().find("input");
+    $input.val(parseInt($input.val()) + 1);
+    $input.change();
+    return false;
+  });
+});
 
+/* ModalClose */
+function ModalClose() {
+  const closeBtn = document.getElementById("btn__close");
+  closeBtn.click();
+}
+/* Scroll */
+$(document).ready(function () {
+  $("#main").on("click", "a", function (event) {
+    event.preventDefault();
+    var id = $(this).attr("href"),
+      top = $(id).offset().top;
+    $("body,html").animate({ scrollTop: top }, 1000);
+  });
+});
 
-/***/ }),
+/* validationForm and formSend*/
+document.addEventListener("DOMContentLoaded", function () {
+  const form = document.getElementById("form");
+  form.addEventListener("submit", formSend);
 
-/***/ "./src/blocks/modules/header/header.js":
-/*!*********************************************!*\
-  !*** ./src/blocks/modules/header/header.js ***!
-  \*********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+  async function formSend(e) {
+    e.preventDefault();
 
+    let error = formValidate(form);
+    let formData = new FormData(form);
 
+    if (error === 0) {
+      form.classList.add("_sending");
+      let response = await fetch("sendmail.php", {
+        method: "POST",
+        body: formData,
+      });
+      if (response.ok) {
+        let result = await response.json();
+        alert(result.message);
+        formPreview.innerHTML = "";
+        form.reset();
+        form.classList.remove("_sending");
+      } else {
+        alert("Ошибка отправки");
+      }
+    }
+  }
 
-/***/ }),
+  function formValidate(form) {
+    let error = 0;
+    let formReq = document.querySelectorAll("._req");
 
-/***/ "./src/js/import/modules.js":
-/*!**********************************!*\
-  !*** ./src/js/import/modules.js ***!
-  \**********************************/
-/*! no exports provided */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+    for (let index = 0; index < formReq.length; index++) {
+      const input = formReq[index];
+      formRemoveError(input);
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _modules_header_header__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! %modules%/header/header */ "./src/blocks/modules/header/header.js");
-/* harmony import */ var _modules_header_header__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_modules_header_header__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _modules_footer_footer__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! %modules%/footer/footer */ "./src/blocks/modules/footer/footer.js");
-/* harmony import */ var _modules_footer_footer__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_modules_footer_footer__WEBPACK_IMPORTED_MODULE_1__);
+      if (input.classList.contains("_tel")) {
+        if (telTest(input)) {
+          formAddError(input);
+          error++;
+        }
+      } else {
+        if (input.value === "") {
+          formAddError(input);
+          error++;
+        }
+      }
+    }
+    return error;
+  }
 
+  function formAddError(input) {
+    input.parentElement.classList.add("_error");
+    input.classList.add("_error");
+  }
 
+  function formRemoveError(input) {
+    input.parentElement.classList.remove("_error");
+    input.classList.remove("_error");
+  }
 
-/***/ }),
-
-/***/ "./src/js/index.js":
-/*!*************************!*\
-  !*** ./src/js/index.js ***!
-  \*************************/
-/*! no exports provided */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _import_modules__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./import/modules */ "./src/js/import/modules.js");
-
-
-/***/ })
-
-/******/ });
-//# sourceMappingURL=main.js.map
+  function telTest(input) {
+    return !/^(\s*)?(\+)?([- _():=+]?\d[- _():=+]?){10,14}(\s*)?$/.test(
+      input.value
+    );
+  }
+});
