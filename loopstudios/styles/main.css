@@ -599,7 +599,7 @@ body {
 }
 
 .main {
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/bg-main.png) center/cover no-repeat;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/bg-main.webp) center/cover no-repeat;
   padding-bottom: 146px;
 }
 
@@ -625,7 +625,7 @@ body {
 }
 
 .aboutCompany-image {
-  background: url(../img/bg-about-company.png) center/cover no-repeat;
+  background: url(../img/bg-about-company.webp) center/cover no-repeat;
   max-width: 731px;
   height: 500px;
 }
@@ -712,35 +712,35 @@ body {
 }
 
 .creations-item__image_1 {
-  background-image: url(../img/image_1.png);
+  background-image: url(../img/image_1.webp);
 }
 
 .creations-item__image_2 {
-  background-image: url(../img/image_2.png);
+  background-image: url(../img/image_2.webp);
 }
 
 .creations-item__image_3 {
-  background-image: url(../img/image_3.png);
+  background-image: url(../img/image_3.webp);
 }
 
 .creations-item__image_4 {
-  background-image: url(../img/image_4.png);
+  background-image: url(../img/image_4.webp);
 }
 
 .creations-item__image_5 {
-  background-image: url(../img/image_5.png);
+  background-image: url(../img/image_5.webp);
 }
 
 .creations-item__image_6 {
-  background-image: url(../img/image_6.png);
+  background-image: url(../img/image_6.webp);
 }
 
 .creations-item__image_7 {
-  background-image: url(../img/image_7.png);
+  background-image: url(../img/image_7.webp);
 }
 
 .creations-item__image_8 {
-  background-image: url(../img/image_8.png);
+  background-image: url(../img/image_8.webp);
 }
 
 .creations-item__image:hover {
