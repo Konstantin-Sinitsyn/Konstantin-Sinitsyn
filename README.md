@@ -12,5 +12,5 @@
 
 
 ## Contacts:
-### Telegram: @s_konstantinn
+### Telegram: https://t.me/s_konstantinn
 ### 📧 Mail me: s.konstantinn.dev@gmail.com
