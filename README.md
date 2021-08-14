@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstantin-Sinitsyn&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Codewars](https://www.codewars.com/users/Konstantin-Sinitsyn/badges/smal)
+![Codewars](https://www.codewars.com/users/Konstantin-Sinitsyn/badges/small)
 
 ## Contacts:
 ### 📱 Telegram: https://t.me/s_konstantinn
