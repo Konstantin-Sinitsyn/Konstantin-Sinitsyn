@@ -1,4 +1,4 @@
-![](https://s9.gifyu.com/images/ExemplaryFairFeline-max-1mb-1-1.gif)
+![](https://s9.gifyu.com/images/ExemplaryFairFeline-max-1mb-1-2.gif )
 # 👋🏻 Hi, my name is Konstantin Sinitsyn!
 ## I'm a beginner Front-end developer👨‍💻
 
