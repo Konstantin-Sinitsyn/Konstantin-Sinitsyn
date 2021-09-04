@@ -10,9 +10,10 @@
 ![PUG](https://img.shields.io/badge/-pug-454443?style=for-the-badge&logo=pug)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-454443?style=for-the-badge&logo=bootstrap)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstantin-Sinitsyn&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstantin-Sinitsyn&show_icons=true&theme=tokyonight&layout=compact)
 
-![Codewars](https://www.codewars.com/users/Konstantin-Sinitsyn/badges/large)
+### [My account on Codewars](https://www.codewars.com/users/Konstantin-Sinitsyn).
+[![Codewars](https://www.codewars.com/users/Konstantin-Sinitsyn/badges/large)](https://www.codewars.com/users/Konstantin-Sinitsyn)
 
 ## Contacts:
 ### 📱 Telegram: https://t.me/s_konstantinn
