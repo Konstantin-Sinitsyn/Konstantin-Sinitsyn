@@ -8,7 +8,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-454443?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/-git-454443?style=for-the-badge&logo=git)
 ![Sass](https://img.shields.io/badge/-Sass-454443?style=for-the-badge&logo=sass)
-![PUG](https://img.shields.io/badge/-pug-454443?style=for-the-badge&logo=pug)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-454443?style=for-the-badge&logo=bootstrap)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstantin-Sinitsyn&show_icons=true&theme=tokyonight&layout=compact)
