@@ -1,7 +1,3 @@
-![](https://s9.gifyu.com/images/ExemplaryFairFeline-max-1mb-1-2.gif )
-# 👋🏻 Hi, my name is Konstantin Sinitsyn!
-## I'm a beginner Front-end developer👨‍💻
-
 ### Languages and Technologies:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-454443?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-454443?style=for-the-badge&logo=html5)
