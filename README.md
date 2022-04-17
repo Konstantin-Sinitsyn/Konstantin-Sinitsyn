@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstantin-Sinitsyn&show_icons=true&theme=tokyonight&layout=compact)
 
-### [My account on Codewars](https://www.codewars.com/users/Konstantin-Sinitsyn).
+### [My account on Codewars](https://www.codewars.com/users/Konstantin-Sinitsyn)
 [![Codewars](https://www.codewars.com/users/Konstantin-Sinitsyn/badges/large)](https://www.codewars.com/users/Konstantin-Sinitsyn)
 
 ## Contacts:
