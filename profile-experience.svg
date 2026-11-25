@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1568" height="240" viewBox="0 0 1568 240" fill="none" role="img" aria-labelledby="experience-title experience-desc">
+  <title id="experience-title">Опыт и результаты</title>
+  <desc id="experience-desc">5+ проектов; AI-native; продукт и UX; данные и код. Четыре карточки в один ряд.</desc>
+  <svg width="380" height="240" viewBox="0 0 380 240" fill="none" role="img" aria-labelledby="projects-title projects-desc" x="0" y="0">
+    <title id="projects-title">5+ проектов</title>
+    <desc id="projects-desc">Исследования, аналитика и рост.</desc>
+    <rect x=".5" y=".5" width="379" height="239" rx="20" fill="#FFFFFF" stroke="#DFE6E2" />
+    <g transform="translate(318 28)" stroke="#58796E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="2" y="3" width="11" height="11" rx="2" />
+      <rect x="19" y="3" width="11" height="11" rx="2" />
+      <rect x="2" y="20" width="11" height="11" rx="2" />
+      <rect x="19" y="20" width="11" height="11" rx="2" />
+    </g>
+    <text x="26" y="99" fill="#242B2D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="700" letter-spacing="-.8">5+ проектов</text>
+    <text x="27" y="151" fill="#56615E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">Исследования,</text>
+    <text x="27" y="185" fill="#56615E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">аналитика и рост</text>
+  </svg>
+  <svg width="380" height="240" viewBox="0 0 380 240" fill="none" role="img" aria-labelledby="automation-title automation-desc" x="396" y="0">
+    <title id="automation-title">AI-native</title>
+    <desc id="automation-desc">AI и автоматизация в команде.</desc>
+    <rect x=".5" y=".5" width="379" height="239" rx="20" fill="#FFFFFF" stroke="#DFE6E2" />
+    <g transform="translate(318 28)" stroke="#58796E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M19 2L6 19H16L12 32L27 13H17L19 2Z" />
+    </g>
+    <text x="26" y="99" fill="#242B2D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="700" letter-spacing="-.8">AI-native</text>
+    <text x="27" y="151" fill="#56615E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">AI и автоматизация</text>
+    <text x="27" y="185" fill="#56615E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">в команде</text>
+  </svg>
+  <svg width="380" height="240" viewBox="0 0 380 240" fill="none" role="img" aria-labelledby="product-title product-desc" x="792" y="0">
+    <title id="product-title">Продукт и UX</title>
+    <desc id="product-desc">CJM · прототипы UI kit · требования.</desc>
+    <rect x=".5" y=".5" width="379" height="239" rx="20" fill="#FFFFFF" stroke="#DFE6E2" />
+    <g transform="translate(318 28)" stroke="#58796E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="2" y="4" width="28" height="25" rx="4" />
+      <path d="M2 11H30M8 18H15M8 23H20M7 7.5H7.01M11 7.5H11.01" />
+    </g>
+    <text x="26" y="99" fill="#242B2D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="700" letter-spacing="-.8">Продукт и UX</text>
+    <text x="27" y="151" fill="#56615E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">CJM · прототипы</text>
+    <text x="27" y="185" fill="#56615E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">UI kit · требования</text>
+  </svg>
+  <svg width="380" height="240" viewBox="0 0 380 240" fill="none" role="img" aria-labelledby="data-title data-desc" x="1188" y="0">
+    <title id="data-title">Данные и код</title>
+    <desc id="data-desc">Парсеры · аналитика Evals · проверка AI.</desc>
+    <rect x=".5" y=".5" width="379" height="239" rx="20" fill="#FFFFFF" stroke="#DFE6E2" />
+    <g transform="translate(318 28)" stroke="#58796E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M10 7L2 16L10 25M22 7L30 16L22 25M19 3L13 29" />
+    </g>
+    <text x="26" y="99" fill="#242B2D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="700" letter-spacing="-.8">Данные и код</text>
+    <text x="27" y="151" fill="#56615E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">Парсеры · аналитика</text>
+    <text x="27" y="185" fill="#56615E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">Evals · проверка AI</text>
+  </svg>
+</svg>

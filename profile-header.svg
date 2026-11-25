@@ -1,29 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="148" viewBox="0 0 1200 148" fill="none" role="img" aria-labelledby="header-title header-desc">
-  <title id="header-title">Декоративный фон профиля</title>
-  <desc id="header-desc">Минималистичный тёмный фон с мягкими оттенками мяты и фиолетового и тонкими геометрическими линиями.</desc>
-  <defs>
-    <linearGradient id="header-bg" x1="0" y1="74" x2="1200" y2="74" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1420"/><stop offset=".48" stop-color="#0B1020"/><stop offset="1" stop-color="#15142B"/>
-    </linearGradient>
-    <radialGradient id="header-mint" cx="0" cy="0" r="1" gradientTransform="translate(110 175) scale(310 190)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#5EEAD4" stop-opacity=".10"/><stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="header-violet" cx="0" cy="0" r="1" gradientTransform="translate(1090 -45) scale(370 210)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A78BFA" stop-opacity=".13"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="header-line" x1="35" y1="115" x2="1160" y2="45" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#5EEAD4" stop-opacity=".02"/><stop offset=".18" stop-color="#5EEAD4" stop-opacity=".20"/><stop offset=".55" stop-color="#7CA7D8" stop-opacity=".06"/><stop offset=".85" stop-color="#A78BFA" stop-opacity=".20"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".02"/>
-    </linearGradient>
-    <clipPath id="header-clip"><rect x=".5" y=".5" width="1199" height="147" rx="20"/></clipPath>
-  </defs>
-  <g clip-path="url(#header-clip)">
-    <rect width="1200" height="148" fill="url(#header-bg)"/>
-    <rect width="1200" height="148" fill="url(#header-mint)"/>
-    <rect width="1200" height="148" fill="url(#header-violet)"/>
-    <path d="M20 118C235 118 315 38 562 66S933 113 1180 27" stroke="url(#header-line)" stroke-width="1.2"/>
-    <path d="M886-35L1006 85L1126-35M996 183L1116 63L1236 183" stroke="#A78BFA" stroke-opacity=".065"/>
-    <circle cx="204" cy="100" r="2.4" fill="#5EEAD4" fill-opacity=".36"/>
-    <circle cx="1006" cy="85" r="2.4" fill="#BCA7FF" fill-opacity=".36"/>
-  </g>
-  <rect x=".5" y=".5" width="1199" height="147" rx="20" stroke="#283047" stroke-opacity=".85"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" fill="none" role="img" aria-labelledby="header-title header-desc">
+  <title id="header-title">Привет, я Костя. Соединяю продукт, AI, аналитику и разработку.</title>
+  <desc id="header-desc">Краткое представление на светлом минималистичном фоне.</desc>
+  <rect x=".5" y=".5" width="1199" height="219" rx="22" fill="#FAFCFB" stroke="#E1E7E4"/>
+  <text x="54" y="91" fill="#242B2D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="700" letter-spacing="-1.2">Привет, я Костя.</text>
+  <text x="56" y="151" fill="#424D4B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="35" font-weight="400" letter-spacing="-.25">Соединяю продукт, <tspan fill="#58796E" font-weight="600">AI</tspan>, аналитику и разработку.</text>
 </svg>

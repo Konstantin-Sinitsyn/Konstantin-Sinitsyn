@@ -2,7 +2,7 @@
 
 ## Lucide
 
-The custom icons embedded in the README skill and tool badges come from
+The line icons next to Skills and Tools come from
 [Lucide](https://github.com/lucide-icons/lucide). Their stroke colors were
 adapted to the profile palette. License text follows unchanged.
 
@@ -54,13 +54,13 @@ SOFTWARE.
 
 ## Simple Icons and Skill Icons
 
-The Telegram path comes from [Simple Icons](https://github.com/simple-icons/simple-icons),
-whose icon pack is distributed under CC0-1.0. Brand marks remain the property of their owners.
-The MCP, Claude Code, and Cursor badge logos are served by Shields.io using Simple Icons.
-Technology icons are served by [Skill Icons](https://github.com/tandpfun/skill-icons).
+The Telegram, Model Context Protocol, Claude Code, and Cursor paths come from
+[Simple Icons](https://github.com/simple-icons/simple-icons), distributed under CC0-1.0.
+Their colors were adapted to the profile palette. Brand marks belong to their owners.
+The technology icon strip is served by [Skill Icons](https://github.com/tandpfun/skill-icons).
 
 ## Setka
 
-The Setka contact icon is the unchanged favicon from https://setka.ru/favicon.svg.
-Official brand resources: https://setka.ru/brand.
-The mark is used only to identify the link to the owner's Setka profile.
+The Setka contact tile contains the unchanged light app icon from the
+[official brand resources](https://setka.ru/brand).
+The mark identifies the link to the owner's Setka profile.
