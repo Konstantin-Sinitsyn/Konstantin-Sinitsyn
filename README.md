@@ -1,45 +1,66 @@
-# Константин Синицын
+<p align="center">
+  <img src="./profile-header.svg" alt="Константин Синицын — Product AI Builder. Product · AI · Analytics · Development" width="100%" />
+</p>
 
-**Senior SEO / GEO · Аналитика · AI-продукты**
+<p align="center">
+  <b>Привет, я Константин.</b> Соединяю продукт, AI, аналитику и разработку.<br />
+  От исследования идеи до прототипа, запуска и измеримого результата.
+</p>
 
-Product Owner AI-направления в [impulse.guru](https://impulse.guru/). Работаю на стыке поискового продвижения, аналитики и продукта: исследую спрос, нахожу точки роста и перевожу выводы в стратегию, технические задания и инструменты для команды.
+<p align="center">
+  <a href="https://t.me/s_konstantinn"><img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&amp;logo=telegram&amp;logoColor=67E8F9" alt="Telegram — @s_konstantinn" /></a>
+  <a href="https://setka.ru/users/b0c7b9c2-8c6c-4194-af22-844fdf2f5dfa"><img src="https://img.shields.io/badge/%D0%A1%D0%B5%D1%82%D0%BA%D0%B0-111827?style=for-the-badge&amp;logoColor=C4B5FD" alt="Профиль в Сетке" /></a>
+</p>
 
-Мой основной фокус — техническое и продуктовое SEO, e-commerce, крупные каталоги, мультирегиональные сайты и присутствие брендов в AI-поиске.
+### Highlights
 
-## Чем занимаюсь
+<p align="center">
+  <img src="./profile-mvp.svg" alt="0 → 1: запуск AI-MVP и развитие в веб-сервис" width="250" />
+  <img src="./profile-projects.svg" alt="Участие в 5+ крупных digital-проектах" width="250" />
+  <img src="./profile-automation.svg" alt="Запуск AI-native подхода к автоматизации в команде" width="250" />
+</p>
 
-- **Техническое SEO.** Индексация и обход, robots.txt и sitemap, редиректы, дубли и canonical, архитектура каталогов, фильтры и пагинация, JS SEO / SSR, микроразметка и Core Web Vitals.
-- **Поисковая аналитика и стратегия.** Семантика и кластеризация, анализ спроса и конкурентов, диагностика изменений трафика, поиск точек роста по типам страниц, прогнозирование и оценка результатов.
-- **GEO и AI-поиск.** Подготовка промптов и методологии замеров, анализ видимости бренда, Share of Voice, упоминаний, цитирований, источников и тональности. На основе исследований формирую технические и контентные рекомендации.
-- **Развитие продукта.** Исследование потребностей пользователей, CustDev, приоритизация, пользовательские сценарии, постановка задач для разработки и критерии приёмки.
-- **Автоматизация.** Использую AI-инструменты для исследований, обработки данных и подготовки SEO/GEO-материалов. Работаю с ChatGPT, Codex в VS Code и GitHub; развиваю подходы к AI-агентам и хранению рабочего контекста.
+### Skills
 
-## «Голос Бренда» — ex. AI SOV
+<p>
+  <img src="https://img.shields.io/badge/AI_Products-153E3D?style=for-the-badge" alt="AI Products" />
+  <img src="https://img.shields.io/badge/Product_Discovery-153E3D?style=for-the-badge" alt="Product Discovery" />
+  <img src="https://img.shields.io/badge/MVP_%26_Prototyping-153E3D?style=for-the-badge" alt="MVP &amp; Prototyping" />
+  <br />
+  <img src="https://img.shields.io/badge/Automation-282448?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-282448?style=for-the-badge" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/Product_Analytics-282448?style=for-the-badge" alt="Product Analytics" />
+  <img src="https://img.shields.io/badge/Technical_SEO-263244?style=for-the-badge" alt="Technical SEO" />
+</p>
 
-Развиваю [«Голос Бренда»](https://aisov.ru/) — сервис аналитики присутствия брендов в ответах AI-систем и поисковой выдаче с AI-ответами.
+<details>
+<summary><b>Раскрыть направления экспертизы</b></summary>
 
-В продукте занимаюсь методологией GEO-метрик, аналитическими сценариями, интерфейсами, онбордингом, требованиями и приоритизацией развития. Параллельно работаю над подходами к GEO-исследованиям и услугам.
+| Product | AI & automation | Analytics |
+| --- | --- | --- |
+| CustDev · CJM · UX-сценарии | Промпты · AI-агенты · автоматизация | Метрики · гипотезы · эксперименты |
+| MVP · приоритизация · требования | AI-assisted development · оценка ответов | Анализ данных · поисковый спрос · SEO |
 
-Текущий фокус — переход от замера «как бренд представлен в AI» к объяснению, почему рекомендуют конкурентов и какие действия могут улучшить результат. Для меня важны проверяемость выводов, ссылки на источники и понятные следующие шаги.
+</details>
 
-## Как подхожу к работе
+### Tools & stack
 
-- Связываю SEO/GEO-метрики с трафиком, конверсией и выручкой.
-- Разделяю факты, гипотезы и прогнозы; учитываю ограничения данных и методики.
-- Приоритизирую задачи по ожидаемому эффекту, трудозатратам и возможности проверить результат.
-- Описываю требования через цель, сценарий, критерии приёмки и конкретные примеры.
-- Для изменений в аналитических алгоритмах рассматриваю случаи улучшения и ухудшения результата, использую контрольные примеры и воспроизводимые проверки.
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge" alt="Codex" />
+  <img src="https://img.shields.io/badge/Playwright-111827?style=for-the-badge" alt="Playwright" />
+</p>
 
-## Обучение и обмен опытом
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,html,css,git,github,vscode&amp;theme=dark&amp;perline=8" alt="Python, JavaScript, Node.js, HTML, CSS, Git, GitHub, VS Code" />
+</p>
 
-Занимаюсь наставничеством SEO-специалистов, провожу обучение для команд и выступаю на темы SEO, GEO и AI-поиска. Мне интересно превращать исследовательские подходы и накопленный опыт в понятные методики, которыми могут пользоваться другие.
+<details>
+<summary><b>Стек по задачам</b></summary>
 
-## Контакты
+- **AI и прототипы:** ChatGPT · Codex · VS Code.
+- **Сбор и обработка данных:** Python · JavaScript · Node.js · Playwright · CSV / JSON.
+- **Веб и рабочий процесс:** HTML · CSS · Git · GitHub.
 
-- [Telegram — @s_konstantinn](https://t.me/s_konstantinn)
-- [Email — s.konstantinn.dev@gmail.com](mailto:s.konstantinn.dev@gmail.com)
-- [Профиль в Сетке](https://setka.ru/users/b0c7b9c2-8c6c-4194-af22-844fdf2f5dfa)
+</details>
 
----
-
-Обновлено: 25 ноября 2026 года.
