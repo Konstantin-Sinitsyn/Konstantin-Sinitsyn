@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="190" viewBox="0 0 380 190" fill="none" role="img" aria-labelledby="product-title product-desc">
+  <title id="product-title">Продукт и UX — CJM · прототипы · UI kit</title>
+  <desc id="product-desc">Сценарии и требования.</desc>
+  <defs>
+    <linearGradient id="product-bg" x1="20" y1="0" x2="380" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/><stop offset="1" stop-color="#101D2B"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="379" height="189" rx="18" fill="url(#product-bg)" stroke="#2A354D"/>
+  <path d="M25 22H51" stroke="#80F0DB" stroke-opacity=".7" stroke-width="2" stroke-linecap="round"/>
+  <g transform="translate(318 28)" stroke="#80F0DB" stroke-opacity=".88" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2" y="4" width="28" height="25" rx="4"/><path d="M2 11H30M8 18H15M8 23H20M7 7.5H7.01M11 7.5H11.01"/>
+  </g>
+  <text x="24" y="73" fill="#80F0DB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="-.8">Продукт и UX</text>
+  <text x="25" y="116" fill="#F1F5FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="600">CJM · прототипы · UI kit</text>
+  <text x="25" y="146" fill="#B8C4DD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15.5">Сценарии и требования</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="190" viewBox="0 0 380 190" fill="none" role="img" aria-labelledby="data-title data-desc">
+  <title id="data-title">Данные и код — Парсеры · аналитика · evals</title>
+  <desc id="data-desc">Проверка алгоритмов и ответов AI.</desc>
+  <defs>
+    <linearGradient id="data-bg" x1="20" y1="0" x2="380" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/><stop offset="1" stop-color="#15182B"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="379" height="189" rx="18" fill="url(#data-bg)" stroke="#2A354D"/>
+  <path d="M25 22H51" stroke="#BCA7FF" stroke-opacity=".7" stroke-width="2" stroke-linecap="round"/>
+  <g transform="translate(318 28)" stroke="#BCA7FF" stroke-opacity=".88" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 7L2 16L10 25M22 7L30 16L22 25M19 3L13 29"/>
+  </g>
+  <text x="24" y="73" fill="#BCA7FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="-.8">Данные и код</text>
+  <text x="25" y="116" fill="#F1F5FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="600">Парсеры · аналитика · evals</text>
+  <text x="25" y="146" fill="#B8C4DD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15.5">Проверка алгоритмов и ответов AI</text>
+</svg>

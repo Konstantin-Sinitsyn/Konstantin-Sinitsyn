@@ -1,61 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none" role="img" aria-labelledby="header-title header-desc">
-  <title id="header-title">Konstantin Sinitsyn — Product AI Builder</title>
-  <desc id="header-desc">Product, AI, analytics and development. A dark navy profile banner with connected product modules in mint and violet.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="148" viewBox="0 0 1200 148" fill="none" role="img" aria-labelledby="header-title header-desc">
+  <title id="header-title">Декоративный фон профиля</title>
+  <desc id="header-desc">Минималистичный тёмный фон с мягкими оттенками мяты и фиолетового и тонкими геометрическими линиями.</desc>
   <defs>
-    <linearGradient id="header-bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1020"/>
-      <stop offset=".6" stop-color="#0E1527"/>
-      <stop offset="1" stop-color="#12172D"/>
+    <linearGradient id="header-bg" x1="0" y1="74" x2="1200" y2="74" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1420"/><stop offset=".48" stop-color="#0B1020"/><stop offset="1" stop-color="#15142B"/>
     </linearGradient>
-    <radialGradient id="header-glow" cx="0" cy="0" r="1" gradientTransform="translate(1030 130) rotate(90) scale(220 360)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8B5CF6" stop-opacity=".16"/>
-      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    <radialGradient id="header-mint" cx="0" cy="0" r="1" gradientTransform="translate(110 175) scale(310 190)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4" stop-opacity=".10"/><stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="header-line" x1="56" y1="219" x2="722" y2="219" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#5EEAD4"/>
-      <stop offset=".5" stop-color="#8B5CF6" stop-opacity=".7"/>
-      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    <radialGradient id="header-violet" cx="0" cy="0" r="1" gradientTransform="translate(1090 -45) scale(370 210)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA" stop-opacity=".13"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="header-line" x1="35" y1="115" x2="1160" y2="45" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4" stop-opacity=".02"/><stop offset=".18" stop-color="#5EEAD4" stop-opacity=".20"/><stop offset=".55" stop-color="#7CA7D8" stop-opacity=".06"/><stop offset=".85" stop-color="#A78BFA" stop-opacity=".20"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".02"/>
     </linearGradient>
-    <pattern id="header-grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#8694BA" stroke-opacity=".07"/>
-    </pattern>
-    <clipPath id="header-clip"><rect x=".5" y=".5" width="1199" height="259" rx="24"/></clipPath>
+    <clipPath id="header-clip"><rect x=".5" y=".5" width="1199" height="147" rx="20"/></clipPath>
   </defs>
   <g clip-path="url(#header-clip)">
-    <rect width="1200" height="260" fill="url(#header-bg)"/>
-    <rect width="1200" height="260" fill="url(#header-grid)"/>
-    <rect width="1200" height="260" fill="url(#header-glow)"/>
-    <circle cx="61" cy="51" r="4" fill="#5EEAD4"/>
-    <text x="77" y="56" fill="#A9B5D0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="2.5">KONSTANTIN SINITSYN</text>
-    <text x="54" y="136" fill="#F1F5FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Product AI Builder</text>
-    <text x="58" y="178" fill="#A9B5D0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="500" letter-spacing="2.1">PRODUCT · AI · ANALYTICS · DEVELOPMENT</text>
-    <path d="M56 219H722" stroke="url(#header-line)" stroke-width="2"/>
-
-    <g stroke-linecap="round" stroke-linejoin="round">
-      <path d="M833 83H884V130H926M833 184H884V130M1018 130H1064V76M1018 130H1096V190" stroke="#516080" stroke-width="1.5"/>
-      <path d="M884 113V130H911" stroke="#5EEAD4" stroke-opacity=".75" stroke-width="2"/>
-      <path d="M1031 130H1064V101" stroke="#A78BFA" stroke-opacity=".8" stroke-width="2"/>
-
-      <rect x="776" y="55" width="86" height="56" rx="12" fill="#111D30" stroke="#34455F"/>
-      <circle cx="796" cy="75" r="3" fill="#5EEAD4"/>
-      <path d="M809 75H843M795 90H831" stroke="#60728E" stroke-width="3"/>
-      <rect x="790" y="159" width="72" height="50" rx="12" fill="#111D30" stroke="#34455F"/>
-      <path d="M809 189V180M821 189V173M833 189V166" stroke="#5EEAD4" stroke-width="3"/>
-
-      <rect x="922" y="84" width="100" height="92" rx="20" fill="#142238" stroke="#5EEAD4" stroke-opacity=".7"/>
-      <rect x="931" y="93" width="82" height="74" rx="14" stroke="#5EEAD4" stroke-opacity=".1"/>
-      <path d="M972 108L990 119V140L972 151L954 140V119L972 108Z" stroke="#8DF1DF" stroke-width="2"/>
-      <path d="M954 119L972 130L990 119M972 130V151" stroke="#8DF1DF" stroke-width="2"/>
-
-      <rect x="1042" y="39" width="86" height="62" rx="13" fill="#1B203B" stroke="#6B5C96"/>
-      <path d="M1060 58H1110M1060 69H1094M1060 80H1102" stroke="#A78BFA" stroke-width="3"/>
-      <rect x="1062" y="166" width="74" height="49" rx="12" fill="#1B203B" stroke="#6B5C96"/>
-      <path d="M1082 181L1074 190L1082 199M1114 181L1122 190L1114 199M1103 179L1094 201" stroke="#BFA8FF" stroke-width="2"/>
-      <circle cx="884" cy="130" r="3.5" fill="#5EEAD4"><animate attributeName="opacity" values=".5;1;.5" dur="4s" repeatCount="indefinite"/></circle>
-      <circle cx="1064" cy="130" r="3.5" fill="#A78BFA"/>
-      <circle cx="1155" cy="126" r="3" fill="#5EEAD4" fill-opacity=".5" stroke="none"/>
-      <circle cx="904" cy="42" r="2" fill="#A78BFA" fill-opacity=".6" stroke="none"/>
-    </g>
+    <rect width="1200" height="148" fill="url(#header-bg)"/>
+    <rect width="1200" height="148" fill="url(#header-mint)"/>
+    <rect width="1200" height="148" fill="url(#header-violet)"/>
+    <path d="M20 118C235 118 315 38 562 66S933 113 1180 27" stroke="url(#header-line)" stroke-width="1.2"/>
+    <path d="M886-35L1006 85L1126-35M996 183L1116 63L1236 183" stroke="#A78BFA" stroke-opacity=".065"/>
+    <circle cx="204" cy="100" r="2.4" fill="#5EEAD4" fill-opacity=".36"/>
+    <circle cx="1006" cy="85" r="2.4" fill="#BCA7FF" fill-opacity=".36"/>
   </g>
-  <rect x=".5" y=".5" width="1199" height="259" rx="24" stroke="#2A354D"/>
+  <rect x=".5" y=".5" width="1199" height="147" rx="20" stroke="#283047" stroke-opacity=".85"/>
 </svg>
